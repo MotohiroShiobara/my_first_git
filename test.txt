@@ -1,6 +1,6 @@
 Hello Git
 
-
+アイウエオ
 aaa. kkk
 
 This is a new Line
